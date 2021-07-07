@@ -14,7 +14,7 @@ date created: 30 June 2021
 # function name: read_data
 
     """
-    read data from a file. The file contains a header line.
+    Read data from a file. The file contains a header line.
 
     Parameters
     ----------

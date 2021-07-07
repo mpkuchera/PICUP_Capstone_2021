@@ -5,3 +5,4 @@
 This repository hosts the skeleton code for the activites 
 from the above parallel workshop.
 
+Interactive coding available here: https://replit.com/join/feecrkgifu-mpkuchera
