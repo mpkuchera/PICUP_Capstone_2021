@@ -2,6 +2,6 @@
 
 ### Lessons from Computer Science Pedagogy Activities
 
-This repository hosts all the skeleton code for the activites 
+This repository hosts the skeleton code for the activites 
 from the above parallel workshop.
 
