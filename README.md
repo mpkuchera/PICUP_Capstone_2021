@@ -1,2 +1,4 @@
-# PICUP_Capstone_2021
-Code for the Comp Sci PICUP Capstone workshop activities
+# PICUP Capstone Workshop 2021
+
+### Lessons from Computer Science Pedagogy Activities
+
