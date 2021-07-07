@@ -2,7 +2,7 @@
 Plots scatter data
 
 name: plot_data.py
-author: Team 1
+author: Team 2
 date created: 30 June 2021
 
 """
