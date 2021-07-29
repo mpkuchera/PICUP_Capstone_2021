@@ -30,3 +30,10 @@ date created: 30 June 2021
         
     """
     
+
+def main():
+  print("in main")
+
+
+if __name__ == "__main__":
+  main()

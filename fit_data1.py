@@ -20,7 +20,7 @@ date created: 30 June 2021
     Parameters
     ----------
     x: array of FLOAT
-        distance values in *10^6 parsecs. Dis
+        distance values in *10^6 parsecs.
     y: array of FLOAT
         associated velocity data in km/s.
 
@@ -33,3 +33,10 @@ date created: 30 June 2021
         
     """
 
+
+def main():
+  print("in main")
+
+
+if __name__ == "__main__":
+  main()

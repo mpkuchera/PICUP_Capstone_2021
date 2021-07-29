@@ -1,7 +1,7 @@
 """
 Example python program with PEP-8 documentation
 
-name: example_function.py
+name: example_file.py
 author: M.P. Kuchera
 date created: 28 July 2021
 
