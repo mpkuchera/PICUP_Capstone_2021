@@ -1,2 +1,2 @@
 language = "bash"
-run = "python expanding_universe.py"
+run = "python fit_data2.py"

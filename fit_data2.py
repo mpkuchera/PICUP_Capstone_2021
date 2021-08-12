@@ -1,19 +1,23 @@
 """
-Fits data using the polyfit function in the numpy package: https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html
+Fits data using the linregress from scipy.stats
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+Note: You may need to type `pip install statsmodels` into the Shell before importing.
 
-name: fit_data1.py
-author: Team 3
+name: fit_data2.py
+author: Team 4
 date created: 30 June 2021
 
 """
 
 #imports
+import scipy.stats
+
 # Test 
 
 
 
-# function name: fit_data1
-
+# function name: fit_data2
+def fun():
     """
     Computes a linear fit to find the slope and y-intercept of input data.
 
@@ -32,6 +36,7 @@ date created: 30 June 2021
        y-intercept of line of best fit 
         
     """
+    print("h")
 
 
 def main():

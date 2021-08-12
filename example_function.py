@@ -9,6 +9,7 @@ date created: 28 July 2021
 
 #imports
 import math
+import numpy
 
 
 
