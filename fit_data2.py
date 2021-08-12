@@ -17,7 +17,7 @@ import scipy.stats
 
 
 # function name: fit_data2
-def fun():
+
     """
     Computes a linear fit to find the slope and y-intercept of input data.
 
@@ -36,7 +36,7 @@ def fun():
        y-intercept of line of best fit 
         
     """
-    print("h")
+    
 
 
 def main():
